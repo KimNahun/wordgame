@@ -1,5 +1,4 @@
 # Word Game
-
 2학년 1학기 정보통신과 응용프로그래밍 기말 프로젝트
 
 ##### Language: Java
