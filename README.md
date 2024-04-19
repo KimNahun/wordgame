@@ -77,14 +77,8 @@ https://github.com/KimNahun/imageList/assets/118811606/21693a5c-075a-4f1e-b503-7
 
 하지만 이 프로젝트를 통해 코딩을 처음 딥하게 접했는데, 이때 프로그래밍으로 진로를 결정한 계기가 됨
 
-~~그전까지는 코딩과는 관계가 멀었던 나~~   
+그전까지는 코딩과는 관계가 멀었던 나 
 
-with 1학년 성적
-
-<img width="300" alt="Capture" src="https://github.com/KimNahun/imageList/assets/118811606/eb2808f4-2432-4a17-afa2-01e162f1b6a9">
-
-<img width="300" alt="Capture" src="https://github.com/KimNahun/imageList/assets/118811606/3a9e940e-8c41-4476-9dd0-5df2149a2c89">
-
-
+### ~~2학년 1학기 초반에는 1부터 20까지 홀수의 합을 더하는 프로그래밍 작성하는데 2시간씩 걸리고 그랬음.. 암튼그랬음...~~
 
 
