@@ -15,7 +15,6 @@
 ---
 ##### 전체 화면
 
-전체화면
 <img width="500" alt="Capture" src="https://github.com/KimNahun/imageList/assets/118811606/89fdc84e-3a93-492d-b3d7-7c2f777f66d4">
 
 ##### 핵심 기능
